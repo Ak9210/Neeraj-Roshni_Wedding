@@ -1,0 +1,48 @@
+export const translations = {
+  en: {
+    exclusive: "This invitation is exclusively for you",
+    countdownTitle: "Countdown",
+    countdownSubtitle: "Until the most special day of our lives",
+    days: "Days",
+    hours: "Hours",
+    minutes: "Minutes",
+    seconds: "Seconds",
+    eventsTitle: "Wedding Events",
+eventsSubtitle: "Join us in celebrating these special moments",
+eventsTap:"Tap for more information",
+
+day27: "27 January",
+day28: "28 January",
+day29: "29 January",
+
+mehndi: "Mehndi",
+kirtan: "Kirtan",
+haldi: "Haldi",
+sangeet: "Sangeet ",
+chaak: "Chaak Bhat",
+wedding: "Wedding Ceremony",
+  },
+  hi: {
+    exclusive: "यह निमंत्रण केवल आपके लिए है",
+    countdownTitle: "उलटी गिनती",
+    countdownSubtitle: "हमारे जीवन के सबसे खास दिन तक",
+    days: "दिन",
+    hours: "घंटे",
+    minutes: "मिनट",
+    seconds: "सेकंड",
+    eventsTitle: "विवाह समारोह",
+eventsSubtitle: "इन खास पलों में हमारे साथ शामिल हों",
+eventsTap: "अधिक जानकारी के लिए टैप करें",
+
+day27: "27 जनवरी",
+day28: "28 जनवरी",
+day29: "29 जनवरी",
+
+mehndi: "मेहंदी",
+kirtan: "कीर्तन",
+haldi: "हल्दी",
+sangeet: "संगीत ",
+chaak: "चाक भात",
+wedding: "विवाह समारोह",
+  },
+};
