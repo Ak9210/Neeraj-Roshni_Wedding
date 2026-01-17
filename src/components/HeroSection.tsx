@@ -64,14 +64,14 @@ const HeroSection = () => {
 
       
       <div className="relative z-10 text-center px-6">
-        <motion.p
+        {/* <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.3 }}
           className="font-sans text-xs md:text-sm uppercase tracking-[0.3em] text-white mb-6"
         >
           We are getting married
-        </motion.p>
+        </motion.p> */}
 
         <motion.h1
           initial={{ opacity: 0, y: 30 }}
@@ -81,7 +81,7 @@ const HeroSection = () => {
         >
           <span className="block">Roshni</span>
           <span className="text-3xl md:text-4xl lg:text-5xl italic font-normal opacity-80">
-            &
+            Weds
           </span>
           <span className="block">Neeraj</span>
         </motion.h1>

@@ -12,6 +12,10 @@ import InvocationHero from "../components/InvocationHero";
 // import EventsSection from "../components/EventsSection";
 // import InteractiveEventsSection from "../components/InteractiveEventsSection";
 import InlineEventsTimeline from "../components/InlineEventsTimeline";
+import ElderlySection from "@/components/ElderlySection";
+import ThingsToKnow from "@/components/ThingsToKnow";
+import MeetBrideGroom from "@/components/MeetTheBrideGroom";
+import RSVPSection from "@/components/RSVPSection";
 
 const Index = () => {
   const [isEnvelopeOpen, setIsEnvelopeOpen] = useState(false);
@@ -37,11 +41,15 @@ const Index = () => {
         >
           <HeroSection />
           {/* <InvocationHero/> */}
+          <ElderlySection/>
           <CountdownSection />
           <DetailsSection />
           <InlineEventsTimeline />
           {/* <TimelineSection /> */}
-          <AccommodationSection />
+          {/* <AccommodationSection /> */}
+          <MeetBrideGroom/>
+          <ThingsToKnow/>
+          <RSVPSection/>
           <Footer />
           <MusicButton />
         </motion.main>
