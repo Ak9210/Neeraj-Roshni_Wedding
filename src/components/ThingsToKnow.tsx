@@ -1,17 +1,17 @@
 import { motion } from "framer-motion";
 import {
-  Instagram,
+//   Instagram,
   Sun,
   Users,
   Car,
 } from "lucide-react";
 
 const items = [
-  {
-    icon: Instagram,
-    title: "HASHTAG",
-    text: "While posting photos on social media, please use the hashtag #NeerajFoundHisRoshni",
-  },
+//   {
+//     icon: Instagram,
+//     title: "HASHTAG",
+//     text: "While posting photos on social media, please use the hashtag #NeerajFoundHisRoshni",
+//   },
   {
     icon: Sun,
     title: "WEATHER",
