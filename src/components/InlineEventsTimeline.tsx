@@ -59,7 +59,7 @@ export default function InlineEventsTimeline() {
     date: t.day27,
     title: t.kirtan,
     time: "6:00 PM onwards",
-    venue: "Community Hall",
+    venue: "Madhuvan Resort",
     image: KirtanImg,
     introLines: 
     language === "hi"
@@ -80,7 +80,7 @@ export default function InlineEventsTimeline() {
     date: t.day28,
     title: t.haldi,
     time: "11:00 AM",
-    venue: "Pool Area",
+    venue: "Madhuvan Resort",
     image: HaldiImg,
     introLines: 
     language === "hi"
@@ -102,7 +102,7 @@ export default function InlineEventsTimeline() {
     date: t.day28,
     title: t.sangeet,
     time: "7:00 PM onwards",
-    venue: "Banquet Hall",
+    venue: "Madhuvan Resort",
     image: SangeetImg,
     introLines: 
     language === "hi"
@@ -128,7 +128,7 @@ export default function InlineEventsTimeline() {
     date: t.day29,
     title: t.chaak,
     time: "9:00 AM",
-    venue: "Bride’s Residence",
+    venue: "Madhuvan Resort",
     image: MayraImg,
     introLines: 
     language === "hi"
@@ -150,7 +150,7 @@ export default function InlineEventsTimeline() {
     date: t.day29,
     title: t.wedding,
     time: "7:00 PM",
-    venue: "Wedding Venue",
+    venue: "Madhuvan Resort",
     image: ShaadiImg,
     introLines: 
     language === "hi"
