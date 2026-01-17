@@ -21,12 +21,12 @@ const ElderlySection = () => {
       >
         {/* BLESSINGS INTRO */}
         <p className="font-sans text-sm text-muted-foreground mb-4">
-          With the heavenly blessings of
+          With the blessings of
         </p>
 
         {/* GRANDPARENTS */}
         <p className="font-serif text-base text-primary leading-relaxed mb-10">
-          Smt. SnehLata Devi <br />
+          Smt. Snehlata Devi <br />
           and Late. Devendra Kumar Sharma
         </p>
 
@@ -59,7 +59,7 @@ const ElderlySection = () => {
         </h1>
 
         <p className="text-3xl italic font-serif opacity-80 mb-2">
-          Weds
+          And
         </p>
 
         <h1 className="font-serif text-5xl md:text-7xl text-gold mb-14">
@@ -68,11 +68,11 @@ const ElderlySection = () => {
 
         {/* PARENTS */}
         <p className="font-sans text-sm text-muted-foreground mb-3">
-          son of
+          Son of
         </p>
 
         <p className="font-serif text-base text-primary leading-relaxed">
-          Mrs. Indu<br /> & Mr. Mahesh Kumar Agarwal
+          Mrs. Indu & Mr. Mahesh Kumar Agarwal
         </p>
       </motion.div>
     </section>
