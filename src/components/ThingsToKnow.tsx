@@ -10,17 +10,17 @@ const items = [
   {
     icon: Instagram,
     title: "HASHTAG",
-    text: "While posting photos on social media, please use the hashtag #RoshniWedsNeeraj",
+    text: "While posting photos on social media, please use the hashtag #NeerajFoundHisRoshni",
   },
   {
     icon: Sun,
     title: "WEATHER",
-    text: "It will be mostly sunny with temperatures reaching up to 28°C at the venue.",
+    text: "It will be mostly sunny with temperatures reaching up to 14°C at the venue.",
   },
   {
     icon: Users,
     title: "STAFF",
-    text: "We recommend the nearby hotel Bhola Bhawan for staff members.",
+    text: "We recommend the Madhuvan Resort for staff members.",
   },
   {
     icon: Car,
